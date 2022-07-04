@@ -1,0 +1,24 @@
+
+
+if you are using  ELM or PINE
+
+start elmtag.pl with  -i  option for automatic installation
+or read the documentation.
+
+$ elmtag.pl -i
+
+
+
+do  
+
+   more README
+
+to read the User Guide and installation notices.
+
+
+if you have problems to read 'README' file, you can
+recompile the manual page by
+
+   nroff -man elmtag.1 > README
+
+
